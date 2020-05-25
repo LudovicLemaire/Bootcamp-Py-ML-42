@@ -1,0 +1,7 @@
+1: help("modules")
+
+2: pip list
+
+3: pip show --verbose numpy
+
+4: pip search "tesseract"
